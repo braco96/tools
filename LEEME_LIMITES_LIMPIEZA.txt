@@ -1,0 +1,3 @@
+Los ficheros .mw/.mws pueden incluir metadatos internos que no siempre son editables fuera de Maple.
+He normalizado nombres de archivos y documentación a 'braco96'. Si necesitas limpiar el interior del
+documento, ábrelo en Maple y revisa Propiedades/Metadatos del worksheet.
